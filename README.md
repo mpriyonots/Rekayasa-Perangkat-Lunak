@@ -1,3 +1,11 @@
 # Rekayasa-Perangkat-Lunak
-Materi kuliah Rekayasa Perangkat Lunak didownload di:
-https://drive.google.com/folderview?id=0B5KJkVEmYSsJM3F0NkZOR1EtN3c&usp=sharing
+Materi kuliah Rekayasa Perangkat Lunak di URL:
+https://github.com/mpriyonots/Rekayasa-Perangkat-Lunak/tree/master/materi
+
+Materi tiap pertemuan:
+
+1. Kontrak Kuliah
+2. Process & Product
+3. Management Project
+4. Requirement Analysis: CD, Use Case
+5. DFD
